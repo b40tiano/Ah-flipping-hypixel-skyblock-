@@ -4,18 +4,21 @@ HOW TO USE ??
  dowload the mod
 
 2.
-  Press Windows  + R on your keyboard
+
+      Press Windows  + R on your keyboard
+     
+2.
+
+      coopy and paste this  "%appdata%"
 
 3.
-  coopy and paste this  "%appdata%"
+
+      open .minecraft folder
 
 4.
-  open .minecraft folder
 
-5.
-
-  open mods folder
+      open mods folder
 
 6.
 
-  paste you mod here
+      paste you mod here

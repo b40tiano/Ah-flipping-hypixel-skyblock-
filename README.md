@@ -1,6 +1,6 @@
 HOW TO USE ??
 
-1.
+# 1.
  dowload the mod
 
 2.

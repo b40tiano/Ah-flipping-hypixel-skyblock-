@@ -1,24 +1,27 @@
 HOW TO USE ??
 
 # 1.
- dowload the mod
 
-2.
+dowload the mod
 
-      Press Windows  + R on your keyboard
+# 2.
+
+Press Windows  + R on your keyboard
      
-2.
+# 3.
+ 
+coopy and paste this  
 
-      coopy and paste this  "%appdata%"
+       %appdata%
 
-3.
+# 4.
 
-      open .minecraft folder
+open .minecraft folder
 
-4.
+# 5.
 
-      open mods folder
+open mods folder
 
-6.
+# 6.
 
-      paste you mod here
+paste you mod here
